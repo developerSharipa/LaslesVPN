@@ -293,7 +293,7 @@ a {
   left: 0;
   width: 14px;
   height: 10px;
-  background-image: url("/images/check-plan.svg");
+  background-image: url(../images/check-plan.svg);
 }
 
 .order__title-free {
@@ -490,7 +490,7 @@ a {
   width: 50px;
   height: 51px;
   left: 30px;
-  background-image: url("../images/feedback__item-img.png");
+  background-image: url(../images/feedback__item-img.png);
 }
 
 .feedback__item-title2::before {
@@ -499,7 +499,7 @@ a {
   width: 50px;
   height: 51px;
   left: 30px;
-  background-image: url("../images/feedback__item-img2.png");
+  background-image: url(../images/feedback__item-img2.png);
 }
 
 .feedback__item-name {
@@ -535,7 +535,7 @@ a {
   border-radius: 50%;
   border: 2px solid #f53838;
   box-sizing: border-box;
-  background-image: url("../images/arrow.svg");
+  background-image: url(/../images/arrow.svg);
   background-repeat: no-repeat;
   background-position: center center;
   transform: rotate(90deg);
